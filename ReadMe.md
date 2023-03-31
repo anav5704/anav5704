@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋<br>My name is Anav Chand and I'm 18 year old student aspiring to become a Frontend web developer 🚀 
+Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspiring to become a Frontend web developer 🚀 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
