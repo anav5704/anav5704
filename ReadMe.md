@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspiring to become a Frontend web developer 🚀 
 
 # 💻 Tech Stack:
@@ -26,3 +26,4 @@ Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspirin
 <!-- [![](https://visitcount.itsvg.in/api?id=anav5704&icon=2&color=1)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ -->
