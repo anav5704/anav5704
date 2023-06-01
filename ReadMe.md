@@ -28,13 +28,9 @@ Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspirin
 ![](https://img.shields.io/badge/Eleventy-000000.svg?style=for-the-badge&logo=Eleventy&logoColor=wh)
 ![](https://img.shields.io/badge/Nunjucks-1C4913.svg?style=for-the-badge&logo=Nunjucks&logoColor=white)
 ![](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)
-
 ![](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
-
 ![](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
 ![](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
-
 ![](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 
 
