@@ -1,11 +1,13 @@
 # ✨ About Me
 🙋‍♂️ Hey. my name is Anav Chand and I'm a 18 year old software enginerring student from Fiji. 
 
-✅ I found my love for frontend web dev during my final year highschool computer project. 
+💖 I found my love for frontend web dev during my final year highschool computer project. 
 
-✅ I also do video eiditing (Danvinci Resolve) and graphics design (Canva) on the side. 
+ ✅ I also do video eiditing (Danvinci Resolve) and graphics design (Canva) on the side. 
 
-✅ I used to do 3d modeling (Blenader) and game development (Unity) back in the day too.
+🎨 I used to do 3d modeling (Blenader) and game development (Unity) back in the day too.
+
+📩 Wanna talk? Shoot me a message on either [Instagram](https://www.instagram.com/anav.webdev/) / Discord or just Email me.
 
 # 💻 My Tech Stack
 <!-- ![CSS3]([https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)) 
