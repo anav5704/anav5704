@@ -36,7 +36,7 @@ Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspirin
 # 🏆 My Top Projects
 | [Rosy Hearts 🎂](http://rosyhearts.netlify.app)  | [Codeology 💻](http://codeology.net)  | [JN College ✍️](http://jncollege.netlify.app)  |
 | This website was made using Astro and TailwindCSS   | This website was made using Evelnty (11ty) and Nunjucks    | This website was made using HTML, CSS and JavaScript    |
-| Fun fact: Apparently thus makes me a JAM stack dev    |Fun fact: I ended up getting a .net domain for this       | Fun fact: This ewas my first ever actual website      |
+| Fun fact: Apparently thus makes me a JAM stack dev    | Fun fact: I ended up getting a .net domain for this       | Fun fact: This ewas my first ever actual website      |
 
 
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
