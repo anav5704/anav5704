@@ -34,10 +34,9 @@ Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspirin
 ![](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 
 # 🏆 My Top Projects
-[![](https://github.com/anav5704/anav5704/blob/main/1.png )](http://rosyhearts.netlify.app)
-### [Rosy Hearts](http://rosyhearts.netlify.app)
-[![](https://github.com/anav5704/anav5704/blob/main/2.png )](http://codeology.net)
-[![](https://github.com/anav5704/anav5704/blob/main/3.png )](http://jncollege.netlify.app)
+## [Rosy Hearts](http://rosyhearts.netlify.app)
+## [Codeology.net](http://codeology.net)
+## [JN College](http://jncollege.netlify.app)
 
 
 
