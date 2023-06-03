@@ -44,7 +44,10 @@ Fun fact: I ended up getting a .net domain for this
 This website was made using HTML, CSS and JavaScript \
 Fun fact: This ewas my first ever actual website
 
-| Wwwwwwwwwwwww | WWWWWWWWWWWWWWWWWWWe | WWWWWWWWWWWWWWWWWW |
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
