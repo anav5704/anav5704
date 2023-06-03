@@ -1,7 +1,7 @@
 # ✨ About Me
 Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspiring to become a Frontend web developer 🚀 
 
-# 💻 My Tech Stack:
+# 💻 My Tech Stack
 <!-- ![CSS3]([https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)) 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white "Tailwind")
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
