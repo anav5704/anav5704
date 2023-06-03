@@ -1,8 +1,7 @@
 # ✨ About Me
-## Hello there! 👋\
 My name is Anav Chand and I'm a 18 year old software enginerring student. \
-I found my love for frontend web development during my final year highschool computer project \
-I also do video eiditing (Danvinci Resolve) and graphics design (Canva) on the side. 
+I found my love for frontend web development during my final year highschool computer project. \
+I also do video eiditing (Danvinci Resolve) and graphics design (Canva) on the side. \
 I used to do 3d modeling and game dev back in the day too.
 
 # 💻 My Tech Stack
