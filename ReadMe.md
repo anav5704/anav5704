@@ -44,7 +44,7 @@ Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspirin
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anav5704&theme=react&hide_border=true&include_all_commits=false&count_private=false)
+![https://rosyhearts.netlify.app/](https://github-readme-stats.vercel.app/api?username=anav5704&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anav5704&theme=react&hide_border=true)
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=anav5704&theme=react&hide_border=true&layout=compact) -->
 
