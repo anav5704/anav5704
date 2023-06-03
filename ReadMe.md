@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me
 Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspiring to become a Frontend web developer 🚀 
 
 # 💻 My Tech Stack:
@@ -33,7 +33,7 @@ Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspirin
 ![](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
 ![](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 
-# 🏆 My Top Projects:
+# 🏆 My Top Projects
 [![](https://github.com/anav5704/anav5704/blob/main/1.png )](http://rosyhearts.netlify.app)
 [![](https://github.com/anav5704/anav5704/blob/main/2.png )](http://codeology.net)
 [![](https://github.com/anav5704/anav5704/blob/main/3.png )](http://jncollege.netlify.app)
@@ -45,7 +45,7 @@ Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspirin
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  -->
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  -->
 
-# 📊 GitHub Stats:
+# 📈 My GitHub Stats
 ![https://rosyhearts.netlify.app/](https://github-readme-stats.vercel.app/api?username=anav5704&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anav5704&theme=react&hide_border=true)
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=anav5704&theme=react&hide_border=true&layout=compact) -->
