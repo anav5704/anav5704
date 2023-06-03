@@ -34,6 +34,8 @@ Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspirin
 ![](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 
 # 💻 Top Projects:
+![](https://github.com/anav5704/anav5704/blob/main/1.png)
+![](https://github.com/anav5704/anav5704/blob/main/2.png))
 ![](https://github.com/anav5704/anav5704/blob/main/3.png)
 
 
