@@ -35,8 +35,11 @@ Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspirin
 
 # 🏆 My Top Projects
 ## [Rosy Hearts](http://rosyhearts.netlify.app)
+This website was made using Astro and TailwindCSS
 ## [Codeology.net](http://codeology.net)
+This website was made using Evelnty (11ty) and Nunjucks
 ## [JN College](http://jncollege.netlify.app)
+This website was made using HTML, CSS and JavaScript
 
 
 
