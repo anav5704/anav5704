@@ -38,7 +38,7 @@ Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspirin
 ![]([https://github.com/anav5704/anav5704/blob/main/1.png](https://rosyhearts.netlify.app/))
 ![](https://github.com/anav5704/anav5704/blob/main/2.png)
 ![](https://github.com/anav5704/anav5704/blob/main/3.png)
-<a href="jncollege.netlify.app"><img src="https://github.com/anav5704/anav5704/blob/main/3.png"> </a>
+<a href="http://jncollege.netlify.app"><img src="https://github.com/anav5704/anav5704/blob/main/3.png"> </a>
 
 
 
