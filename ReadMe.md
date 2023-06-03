@@ -34,7 +34,7 @@ Hello there! 👋<br>My name is Anav Chand and I'm a 18 year old student aspirin
 ![](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
 
 # 🏆 My Top Projects
-## [Rosy Hearts] 🎂 (http://rosyhearts.netlify.app) 
+## [Rosy Hearts 🎂](http://rosyhearts.netlify.app) 
 This website was made using Astro and TailwindCSS \
 Fun fact: Apparently thus makes me a JAM stack dev
 ## [Codeology] 💻 (http://codeology.net) 
