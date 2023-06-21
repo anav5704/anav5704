@@ -38,6 +38,7 @@
 ![](https://img.shields.io/badge/Nunjucks-1C4913.svg?style=for-the-badge&logo=Nunjucks&logoColor=white)
 ![](https://img.shields.io/badge/Astro-FF5D01.svg?style=for-the-badge&logo=Astro&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white)
+![](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")
 ![](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
 ![](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
@@ -46,7 +47,7 @@
 | [Rosy Hearts 🎂](http://rosyhearts.netlify.app)  | [Codeology 💻](http://codeology.net)  | [JN College ✍️](http://jncollege.netlify.app)  |
 | --- | --- | --- |
 | This website was made using Astro and TailwindCSS   | This website was made using Evelnty (11ty) and Nunjucks    | This website was made using HTML, CSS and JavaScript    |
-| Apparently this makes me a JAM stack developer now   | I ended up getting a .net domain for this, cool right?  |  This is my first website and I found my passion for webdev cause of it     |
+| Apparently this makes me a JAM stack developer now   | I ended up getting a .net domain for this, cool right?  |  This is my first website and I found my passion for web dev cause of it     |
 
 
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
