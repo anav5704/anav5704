@@ -1,5 +1,5 @@
 # ✨ About Me
-🙋‍♂️ Hey. my name is Anav Chand and I'm an 19-year-old software engineering student from Fiji. 
+🙋‍♂️ Hey. my name is Anav Chand and I'm a 19-year-old software engineering student from Fiji. 
 
 💖 I found my love for frontend web dev during my final year high school computer project. 
 
