@@ -46,7 +46,7 @@
 # 🏆 My Top Projects
 | [Rosy Hearts 🎂](http://rosyhearts.netlify.app)  | [Codeology 💻](http://codeology.net)  | [JN College ✍️](http://jncollege.netlify.app)  |
 | --- | --- | --- |
-| This website was made using Astro and TailwindCSS   | This website was also made using Astro and TailwindCSS    | This website was made using HTML, CSS and Vanila JS|
+| This website was made using Astro and TailwindCSS   | This website was also made using Astro and TailwindCSS    | This website was made using HTML, CSS and Vanilla JS|
 | Apparently this makes me a JAM stack developer now   | I ended up getting a .net domain for this, cool right?  |  This is my first website and I found my passion for web dev cause of it     |
 
 
