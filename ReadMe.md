@@ -1,5 +1,5 @@
 # ✨ About Me
-🙋‍♂️ Hey. my name is *Anav* and I'm a 19-year-old software engineering student from Fiji. 
+🙋‍♂️ Hey. my name is **Anav** and I'm a 19-year-old software engineering student from Fiji. 
 
 💖 I found my love for frontend web dev during my final year high school computer project. 
 
