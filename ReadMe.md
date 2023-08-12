@@ -46,7 +46,6 @@
 | --- | --- | --- |
 | This website was made using Astro and TailwindCSS   | This website was also made using Astro and TailwindCSS    | This website was made using HTML, CSS, and Vanilla JS|
 | Apparently this makes me a JAM stack developer now   | I ended up getting a .net domain for this, cool right?  |  This is my first website and I found my passion for web dev cause of it     |
-
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 <!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  -->
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  -->
