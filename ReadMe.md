@@ -41,7 +41,6 @@
 ![](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
 ![](https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black)
-
 # 🏆 My Top Projects
 | [Rosy Hearts 🎂](http://rosyhearts.netlify.app)  | [Codeology 💻](http://codeology.net)  | [JN College ✍️](http://jncollege.netlify.app)  |
 | --- | --- | --- |
