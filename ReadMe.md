@@ -56,7 +56,6 @@
 | --- | --- | --- |
 | This website was made using Astro and TailwindCSS   | This website was also made using Astro and TailwindCSS    | This website was made using HTML, CSS, and Vanilla JS|
 | Apparently this makes me a JAM stack developer now   | I ended up getting a .net domain for this, cool right?  |  This is my first website and I found my passion for web dev cause of it     |
-
 # 📈 My GitHub Stats
 ![https://rosyhearts.netlify.app/](https://github-readme-stats.vercel.app/api?username=anav5704&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anav5704&theme=react&hide_border=true)
