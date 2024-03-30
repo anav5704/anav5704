@@ -1,4 +1,4 @@
-[About Anav](https://github.com/anav5704/anav5704/images/readme.png)
+![About Anav](https://github.com/anav5704/anav5704/blob/main/images/readme.png)
 
 <!-- # ✨ About Me
 🙋‍♂️ Hey. my name is **Anav** and I'm a 19-year-old software **engineering student** from **Fiji**. 
