@@ -1,4 +1,6 @@
-# ✨ About Me
+[About Anav](https://github.com/anav5704/anav5704/images/readme.png)
+
+<!-- # ✨ About Me
 🙋‍♂️ Hey. my name is **Anav** and I'm a 19-year-old software **engineering student** from **Fiji**. 
 
 💖 I found my love for frontend web dev during my final year high school computer project. 
@@ -32,17 +34,17 @@
 ![](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white "Figma")
 ![](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)
+![](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white) -->
 <!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white "Redis") 
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql") -->
 
-# 🏆 My Top Projects
+<!-- # 🏆 My Top Projects
 | [Rosy Hearts 🎂](http://rosyhearts.netlify.app)  | [Codeology 💻](http://codeology.net)  | [JN College ✍️](http://jncollege.netlify.app)  |
 | --- | --- | --- |
 | This website was made using Astro and TailwindCSS   | This website was also made using Astro and TailwindCSS    | This website was made using HTML, CSS, and Vanilla JS|
 | Apparently this makes me a JAM stack developer now   | I ended up getting a .net domain for this, cool right?  |  This is my first website and I found my passion for web dev cause of it     |
-# 📈 My GitHub Stats
+# 📈 My GitHub Stats -->
 <!-- ![https://rosyhearts.netlify.app/](https://github-readme-stats.vercel.app/api?username=anav5704&theme=react&hide_border=true&include_all_commits=false&count_private=false) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=anav5704&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anav5704&langs_count=6&theme=react&hide_border=true&layout=compact) 
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=anav5704&theme=react&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anav5704&langs_count=6&theme=react&hide_border=true&layout=compact)  -->
 <!-- [![](https://visitcount.itsvg.in/api?id=anav5704&icon=2&color=1)](https://visitcount.itsvg.in) -->
