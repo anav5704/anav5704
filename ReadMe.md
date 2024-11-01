@@ -4,12 +4,14 @@ I am a 1st year Software Engineering student at the [University of the South Pac
 
 ## 😎 Skills
 
-**Languages:** `C++` `Go` `TypeScript` `JavaScript`
+**Languages:** `C++` `Golang` `TypeScript` `JavaScript`
 
 **Frontend:** `Next.js` `Astro.js` `React.js` `Tailwind`
 
 **Backend:** `Node.js` `Supabase` `Prisma` `PostgreSQL`
 
+**Tools:** `Git` `GitHub` `Turborepo`
+
 **Testing:** `Vitest` `Playwright` `Postman` `K6`
 
-**DevOps:** `GitHub Actions` `Turbo Repo ` `PM2` `Docker`
+**Software:** `Figma` `Blender` `DaVinci Resolve`
