@@ -10,7 +10,7 @@ I am a 1st year Software Engineering student at the [University of the South Pac
 
 **Backend:** `Node.js` `Supabase` `Prisma` `PostgreSQL`
 
-**Tools:** `Git` `GitHub` `Turborepo`
+**Tools:** `Git` `GitHub` `GitLab` `Turborepo`
 
 **Testing:** `Vitest` `Playwright` `Postman` `K6`
 
